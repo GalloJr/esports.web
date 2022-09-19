@@ -6,4 +6,10 @@ npm run dev
 
 ![image](https://user-images.githubusercontent.com/29153883/190945217-48f576f9-ac79-4f49-ab10-83c5f6f19ab6.png)
 
+## 🛠️ Tecnologias/Ferramentas utilizadas
 
+  * React
+  * Vite
+  * Radix
+  * Tailwind
+  * TypeScript
